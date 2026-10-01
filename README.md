@@ -20,9 +20,9 @@ There are also many resources to learn programming.
 
 - [code.org](https://code.org/) very basic programming. Only use this if you have literally no idea what you are doing, otherwise it is probably a waste of time.
 - [bro code](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ) beginner to intermediate level for a number of programming languages (python, java, javascript, c#, c, c++, html/css)
-- [codeacademy](https://www.codecademy.com/) beginner to intermediate (?) level for a huge number of languages. However does pressure you to pay a *lot*
-- [boot.dev](https://www.boot.dev/) similar to codeacademy. Focuses on the python and go programming languages, as well as git and linux. I personally used this to learn the basics of go before just using the web afterwards
-- there are also huge numbers of other tutorials and websites which exist on the web - so many that it would be infeasible to list them all. If you want to add something to this list, just add a [pull request](https://docs.github.com/en/pull-requests/reference/pull-requests)
+- [codeacademy](https://www.codecademy.com/) Beginner to expert for a number of languages, and has been popular for a while. However from my experience, I found it quite boring, and it does pressure you to pay a *lot*.
+- [boot.dev](https://www.boot.dev/) similar to codeacademy, but newer. Focuses on the python and go programming languages, as well as git and linux. I personally used this to learn the basics of go before just using the web afterwards
+- there are also huge numbers of other tutorials and websites which exist on the web - so many that it would be infeasible to list them all. If you want to add something to this list, just add a [pull request](https://docs.github.com/en/pull-requests/reference/pull-requests) and we'll take a look!
 
 ### Basic
 
