@@ -84,7 +84,7 @@ Any ideas prefixed with `(scratch)` are intended to be completed in either [scra
 - implement a linear algebra library (watch 3b1b and implement the corresponding
   computations)
 - implement `datetime` from scratch, maybe even in scratch
-- intersection algorithms for line-circle-ngon-ellipse etc etc
+- intersection algorithms and SDFs for line/circle/arc/ellipse etc
 - (scratch) optimised filling algorithms for triangles, rectangles, quads,
   segments, arcs
 - implement a godot/unity-like `node` system in scratch
